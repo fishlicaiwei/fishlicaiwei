@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @fishlicaiwei
-- 👀 This is my Large Language Model Repository.
-- 🌱 I’s include model deployment, fine-tuning,hyperparameter tuning, data preprocessing,etc....
-- 💞️ I’m looking to collaborate on any competetiion,like kaggle, mathematical modeling contest.
+- 👀 My major is ds/cs/risk.
+- 🌱 My Github will store some algorithms and models about meachine learning, deep learning, web mining, nlp, data visualization, risk and credit evaluation,etc.....
+- 💞️ I’m looking to collaborate on any competetiions,like kaggle, mathematical modeling contest.
 - 📫 How to reach me:fishlicaiwei@gmail.com
-- 
+- My linkedin: www.linkedin.com/in/采薇-李-36302a316
+
 
 <!---
 fishlicaiwei/fishlicaiwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
