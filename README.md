@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fishlicaiwei
 - 👀 This is my Large Language Model Repository.
-- 🌱 I’s include Model Deployment, Fine-tuning,Hyperparameter Tuning, Data Preprocessing, Etc....
-- 💞️ I’m looking to collaborate on any competetiion,like kaggle, Mathematical modeling contest.
+- 🌱 I’s include model deployment, fine-tuning,hyperparameter tuning, data preprocessing,etc....
+- 💞️ I’m looking to collaborate on any competetiion,like kaggle, mathematical modeling contest.
 - 📫 How to reach me:fishlicaiwei@gmail.com
 - 
 
